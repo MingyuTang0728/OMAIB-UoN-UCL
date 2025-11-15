@@ -5,7 +5,7 @@
 ## What’s inside
 
 Landing / Hub — `UoN Multimodal AI Platform.html
-  A web‑native hub showcasing pipelines, community exchange, and an entry card *“UR Robotic Arm Calibration (UoN × UCL)”  
+  A web‑native hub showcasing pipelines, community exchange, and an entry card “UR Robotic Arm Calibration (UoN × UCL)”  
 No build tools needed; runs directly in the browser.
 
 UR Operation Interface — `UR operation interface.html`
